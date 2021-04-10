@@ -2,10 +2,10 @@
 
 O código busca a soma do maior elemento possível em um vetor usando o método de divisão e conquista apresentado na aula.
 Durante a execução, o usuário deve informar os valores do vetor através do próprio código. E o vetor deve ser passado como
-Os parâmetros do somaMaxima atuam como vetor, como início do índice e como final do índice, conforme exemplo abaixo:
+Os parâmetros do max_sum atuam como vetor, como início do índice e como final do índice, conforme exemplo abaixo:
 
-       vetor = ["" "Seus valores inteiros" ""]
-       print (sumMaxima (seuVetor, índice inicial, índice final))
+       vetor = ["inteiros"]
+       print(max_sum(vetor, inicio, final))
 
 O seguinte parâmetro foi usado no código fornecido:
 
