@@ -1,4 +1,4 @@
-# Trabalho-de-Analise-01
+# Trabalho de Analise de Algoritmos - 01
 
 O código busca a soma do maior elemento possível em um vetor usando o método de divisão e conquista apresentado na aula.
 Durante a execução, o usuário deve informar os valores do vetor através do próprio código. E o vetor deve ser passado como
