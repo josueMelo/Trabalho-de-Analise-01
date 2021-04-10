@@ -32,7 +32,7 @@ def array_maximos(vet, inicio, centro, final):
   return max_esquerdo, max_dir, soma_esquerdo + soma_direitoeito_2
 
 if __name__ == '__main__':
-  vetor_1 = [21, 10, -50, 2, 27, -16, -4, 10]
+  vetor_1 = [44, 0, -20, 32, 7, 16, -34, 11]
   vetor_2 = [-16, 20, -10, 12, 27, -6, -4, 8]
   print(max_sum(vetor_1, 0, 7))
   print(max_sum(vetor_2, 0, 7))
